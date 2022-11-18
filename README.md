@@ -1,3 +1,5 @@
+# AirBnB Clone - RESTful API
+This RESTful API is the fourth segment of the AirBnB clone project that will collectively cover fundamental concepts fo higher level programming. The goal of the project is to build a RESTful API for the AirBnB Clone project.
 # AirBnB Clone - The Console
 The console is the first segment of the AirBnB project at Holberton School that will collectively cover fundamental concepts of higher level programming. The goal of AirBnB project is to eventually deploy our server a simple copy of the AirBnB Website(HBnB). A command interpreter is created in this segment to manage objects for the AirBnB(HBnB) website.
 
@@ -156,7 +158,8 @@ No known bugs at this time.
 ## Authors
 Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
-
+HOGBONOUTO zinsou kentin - [Github](https://github.com/kentinHogbonouto)
+Rediet Tadesse - [Github](https://github.com/Reid-T-W) / [Linkedin](https://www.linkedin.com/in/rediet-tadesse-43209013b/)
 Second part of Airbnb: Joann Vuong
 ## License
 Public Domain. No copy write protection. 
