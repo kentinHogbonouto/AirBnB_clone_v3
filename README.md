@@ -162,4 +162,5 @@ Kentin (Zinsou) Hogbonouto  - [Github](https://github.com/kentinHogbonouto)
 Rediet Tadesse - [Github](https://github.com/Reid-T-W) / [Linkedin](https://www.linkedin.com/in/rediet-tadesse-43209013b/)  
 Second part of Airbnb: Joann Vuong
 ## License
-Public Domain. No copy write protection. 
+Public Domain. No copy write protection.   
+
